@@ -2,6 +2,10 @@ thrift Cookbook CHANGELOG
 =========================
 This file is used to list changes made in each version of the thrift cookbook.
 
+v1.2.1
+------
+### New Feature
+- [COOK-4204]: update thrift to 0.9.1
 
 v1.2.0
 ------
